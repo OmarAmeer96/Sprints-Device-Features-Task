@@ -1,16 +1,42 @@
-# sprints_device_features_task
+# Device Information App
 
-A new Flutter project.
+![App Screenshot]()
+
+## Overview
+
+This Flutter application displays the device's model and operating system version in a modern and creative design. It utilizes the `device_info_plus` package to retrieve detailed device information across multiple platforms.
+
+## Features
+
+- **Cross-Platform Support:** Runs seamlessly on Android, iOS, Web, macOS, Linux, and Windows.
+- **Responsive Design:** Adapts to various screen sizes and orientations.
+- **Modern UI:** Implements a clean and intuitive user interface.
+
+## Dependencies
+
+- [device_info_plus](https://pub.dev/packages/device_info_plus): A Flutter plugin providing detailed information about the device (make, model, etc.) and the operating system version the app is running on.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the Repository:**
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   git clone https://github.com/OmarAmeer96/Sprints-Device-Features-Task.git
+   cd device_info_app
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. **Install Dependencies:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ```bash
+   flutter pub get
+   ```
+
+3. **Run the App:**
+
+   ```bash
+   flutter run
+   ```
+
+## Usage
+
+Upon launching the app, the main screen will display the device's model and operating system version centered on the screen.
