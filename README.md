@@ -1,6 +1,6 @@
 # Device Information App
 
-![App Screenshot]()
+![App Screenshot](https://github.com/user-attachments/assets/9bcdab12-e235-4787-a572-fc6c6ce1cb8c)
 
 ## Overview
 
